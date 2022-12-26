@@ -13,3 +13,6 @@ C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\ne
 C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.pdb
 C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.genruntimeconfig.cache
 C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\ref\WiredBrainCoffee.ShopinfoToo.dll
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\bin\Debug\net6.0\WiredBrainCoffee.DataAccess.dll
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\bin\Debug\net6.0\WiredBrainCoffee.DataAccess.pdb
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.csproj.CopyComplete

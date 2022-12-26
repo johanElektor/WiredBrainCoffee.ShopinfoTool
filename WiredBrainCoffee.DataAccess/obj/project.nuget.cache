@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPSk++EyyagHVZ57MOUzZ/76qa+t6OfNQIZSFNbh3tzsMs7avfP6peKCQv6uBle48hHdtoKbqvttcP2/CTs0BA==",
+  "success": true,
+  "projectFilePath": "C:\\Johan\\WiredBrainCoffee.ShopinfoTool\\WiredBrainCoffee.DataAccess\\WiredBrainCoffee.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

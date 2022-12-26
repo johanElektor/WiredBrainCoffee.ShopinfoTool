@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "WiredBrainCoffee.DataAccess/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/WiredBrainCoffee.DataAccess.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WiredBrainCoffee.DataAccess.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "WiredBrainCoffee.DataAccess/1.0.0": {
-      "type": "project",
-      "path": "../WiredBrainCoffee.DataAccess/WiredBrainCoffee.DataAccess.csproj",
-      "msbuildProject": "../WiredBrainCoffee.DataAccess/WiredBrainCoffee.DataAccess.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "WiredBrainCoffee.DataAccess >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Johan\\.nuget\\packages\\": {},
@@ -35,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Johan\\WiredBrainCoffee.ShopinfoTool\\WiredBrainCoffee.ShopinfoToo\\WiredBrainCoffee.ShopinfoToo.csproj",
-      "projectName": "WiredBrainCoffee.ShopinfoToo",
-      "projectPath": "C:\\Johan\\WiredBrainCoffee.ShopinfoTool\\WiredBrainCoffee.ShopinfoToo\\WiredBrainCoffee.ShopinfoToo.csproj",
+      "projectUniqueName": "C:\\Johan\\WiredBrainCoffee.ShopinfoTool\\WiredBrainCoffee.DataAccess\\WiredBrainCoffee.DataAccess.csproj",
+      "projectName": "WiredBrainCoffee.DataAccess",
+      "projectPath": "C:\\Johan\\WiredBrainCoffee.ShopinfoTool\\WiredBrainCoffee.DataAccess\\WiredBrainCoffee.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Johan\\.nuget\\packages\\",
-      "outputPath": "C:\\Johan\\WiredBrainCoffee.ShopinfoTool\\WiredBrainCoffee.ShopinfoToo\\obj\\",
+      "outputPath": "C:\\Johan\\WiredBrainCoffee.ShopinfoTool\\WiredBrainCoffee.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
@@ -65,11 +46,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Johan\\WiredBrainCoffee.ShopinfoTool\\WiredBrainCoffee.DataAccess\\WiredBrainCoffee.DataAccess.csproj": {
-              "projectPath": "C:\\Johan\\WiredBrainCoffee.ShopinfoTool\\WiredBrainCoffee.DataAccess\\WiredBrainCoffee.DataAccess.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -95,10 +72,6 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.12, 6.0.12]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[6.0.12, 6.0.12]"
           },
           {

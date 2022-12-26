@@ -1,0 +1,12 @@
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\bin\Debug\net6.0\WiredBrainCoffee.DataAccess.deps.json
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\bin\Debug\net6.0\WiredBrainCoffee.DataAccess.dll
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\bin\Debug\net6.0\WiredBrainCoffee.DataAccess.pdb
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\obj\Debug\net6.0\WiredBrainCoffee.DataAccess.csproj.AssemblyReference.cache
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\obj\Debug\net6.0\WiredBrainCoffee.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\obj\Debug\net6.0\WiredBrainCoffee.DataAccess.AssemblyInfoInputs.cache
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\obj\Debug\net6.0\WiredBrainCoffee.DataAccess.AssemblyInfo.cs
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\obj\Debug\net6.0\WiredBrainCoffee.DataAccess.csproj.CoreCompileInputs.cache
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\obj\Debug\net6.0\WiredBrainCoffee.DataAccess.dll
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\obj\Debug\net6.0\refint\WiredBrainCoffee.DataAccess.dll
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\obj\Debug\net6.0\WiredBrainCoffee.DataAccess.pdb
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.DataAccess\obj\Debug\net6.0\ref\WiredBrainCoffee.DataAccess.dll
