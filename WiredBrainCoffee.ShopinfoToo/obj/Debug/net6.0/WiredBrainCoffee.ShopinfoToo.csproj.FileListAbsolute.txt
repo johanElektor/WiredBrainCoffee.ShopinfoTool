@@ -1,0 +1,15 @@
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\bin\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.exe
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\bin\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.deps.json
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\bin\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.runtimeconfig.json
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\bin\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.dll
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\bin\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.pdb
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.csproj.AssemblyReference.cache
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.AssemblyInfoInputs.cache
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.AssemblyInfo.cs
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.csproj.CoreCompileInputs.cache
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.dll
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\refint\WiredBrainCoffee.ShopinfoToo.dll
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.pdb
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\WiredBrainCoffee.ShopinfoToo.genruntimeconfig.cache
+C:\Johan\WiredBrainCoffee.ShopinfoTool\WiredBrainCoffee.ShopinfoToo\obj\Debug\net6.0\ref\WiredBrainCoffee.ShopinfoToo.dll
