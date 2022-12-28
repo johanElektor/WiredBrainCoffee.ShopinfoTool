@@ -31,7 +31,7 @@ while (true)
         {
             Console.WriteLine($"> Command '{line}' not found!");
         }
-        else if (foundCoffeeShops.Count() == 1)
+        else if (foundCoffeeShops.Count == 1)
         {
             var coffeeShop = foundCoffeeShops.Single();
             Console.WriteLine($"> Location: {coffeeShop.Location}");
