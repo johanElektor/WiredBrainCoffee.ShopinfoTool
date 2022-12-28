@@ -11,3 +11,5 @@
 bin 	# ignore bin directory 
 obj 	# ignore any files with .obj postfix 
 /.gitignore
+/WiredBrainCoffee.ShopinfoToo/obj/Debug/net6.0/WiredBrainCoffee.ShopinfoToo.csproj.AssemblyReference.cache
+/WiredBrainCoffee.ShopinfoToo/.vs/WiredBrainCoffee.ShopinfoToo/v17/.suo
