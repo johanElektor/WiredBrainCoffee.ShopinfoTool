@@ -21,17 +21,8 @@ while (true)
     var commandHandler =
         String.Equals("help", line, StringComparison.OrdinalIgnoreCase)
         ? new HelpCommandHandler(coffeeShops) as ICommandHandler
-        : new CommandHandler(coffeeShops, line);   
-
+        : new CommandHandler(coffeeShops, line);      
     
-    if (string.Equals("help", line, StringComparison.OrdinalIgnoreCase))
-    {
-        commandHandler = new HelpCommandHandler(coffeeShops);
-    }
-    else
-    {
-        commandHandler = new CommandHandler(coffeeShops, line);
-    }
 
     commandHandler.HandleCommand();
 }
