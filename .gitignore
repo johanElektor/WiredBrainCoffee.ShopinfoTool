@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WiredBrainCoffee.DataAccess/bin/Debug/net6.0/WiredBrainCoffee.DataAccess.dll
+/WiredBrainCoffee.DataAccess/bin/Debug/net6.0/WiredBrainCoffee.DataAccess.pdb
+/WiredBrainCoffee.DataAccess/obj/Debug/net6.0/ref/WiredBrainCoffee.DataAccess.dll
+/WiredBrainCoffee.DataAccess/obj/Debug/net6.0/refint/WiredBrainCoffee.DataAccess.dll
+/WiredBrainCoffee.DataAccess/obj/Debug/net6.0/WiredBrainCoffee.DataAccess.dll
+/WiredBrainCoffee.DataAccess/obj/Debug/net6.0/WiredBrainCoffee.DataAccess.pdb
