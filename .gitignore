@@ -8,7 +8,6 @@
 /WiredBrainCoffee.DataAccess/obj/Debug/net6.0/refint/WiredBrainCoffee.DataAccess.dll
 /WiredBrainCoffee.DataAccess/obj/Debug/net6.0/WiredBrainCoffee.DataAccess.dll
 /WiredBrainCoffee.DataAccess/obj/Debug/net6.0/WiredBrainCoffee.DataAccess.pdb
-bin/ 	# ignore bin directory 
-*.obj 	# ignore any files with .obj postfix 
-!.gitignore 
+bin 	# ignore bin directory 
+obj 	# ignore any files with .obj postfix 
 /.gitignore
