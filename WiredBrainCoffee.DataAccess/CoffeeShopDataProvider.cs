@@ -4,7 +4,7 @@ namespace WiredBrainCoffee.DataAccess
 {
     public class CoffeeShopDataProvider
     {
-        public IEnumerable<CoffeeShop> LoadCoffeeShops()
+        public static IEnumerable<CoffeeShop> LoadCoffeeShops()
         {
             return new List<CoffeeShop>()
             {
