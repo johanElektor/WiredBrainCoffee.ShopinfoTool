@@ -24,6 +24,8 @@ internal class CommandHandler:ICommandHandler
             var coffeeShop = foundCoffeeShops.Single();
             Console.WriteLine($"> Location: {coffeeShop.Location}");
             Console.WriteLine($"Beans in Stock: {coffeeShop.BeansInStockInKg} kg.");
+            Console.WriteLine($"Paper Cubs in Stock: {coffeeShop.PaperCuspsInStock}");
+            Console.WriteLine($"Shop Manager: {coffeeShop.ManagerName}");
         }
         else
         {
