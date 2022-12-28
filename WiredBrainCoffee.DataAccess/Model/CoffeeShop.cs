@@ -4,5 +4,7 @@
     {
         public string Location { get; set; }
         public int BeansInStockInKg { get; set; }
+
+        public int PaperCuspsinStock { get; set; }  
     }
 }
